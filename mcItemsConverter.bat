@@ -16,3 +16,4 @@ echo %shulkers% shulkers, %stacks% stacks, and %items% items
 echo.
 
 goto loop
+
